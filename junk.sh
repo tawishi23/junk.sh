@@ -17,6 +17,7 @@ Usage: $name [-hlp] [list of files]
 EOF
 }
 
+#Add basic script structure and help function
 if [ "$#" -eq 0 ]; then
 print_help >&2
 exit 1
