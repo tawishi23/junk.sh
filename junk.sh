@@ -1,4 +1,5 @@
 #!/bin/bash
+# Version 1.1
 #Name: Tawishi Dogra
 #Uni: TD2746
 #Advanced Programming: HW 1
