@@ -4,6 +4,7 @@
 #Uni: TD2746
 #Advanced Programming: HW 1
 
+# Directory where junked files are stored
 readonly JUNKDIR=~/.junk
 
 print_help(){
