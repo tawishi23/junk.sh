@@ -48,7 +48,7 @@ esac
 done
 
 shift $((OPTIND-1))
-
+# Validate that only one option is used at a time
 total=$((h+l+p))
 
 if [ "$total" -gt 1 ]; then
